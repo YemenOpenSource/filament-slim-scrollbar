@@ -1,6 +1,5 @@
 # Filament Slim Scrollbar
 
-[![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/aymanalhattami/filament-slim-scrollbar.svg?style=flat-square)](https://packagist.org/packages/aymanalhattami/filament-slim-scrollbar)
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/aymanalhattami/filament-slim-scrollbar/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/aymanalhattami/filament-slim-scrollbar/actions?query=workflow%3A"Fix+PHP+code+styling"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/aymanalhattami/filament-slim-scrollbar.svg?style=flat-square)](https://packagist.org/packages/aymanalhattami/filament-slim-scrollbar)
@@ -12,6 +11,11 @@ Simple package to make the application's scrollbars slim.
 * Support both the dark and light modes.
 
 * No JavaScript or CSS libraries; only pure CSS.
+  **Note:**
+
+> For [Filament 3.x | Filament 4.x | Filament 5.x](https://filamentphp.com/docs/introduction/installation) use [version 2.x](https://github.com/aymanalhattami/filament-page-with-sidebar/tree/2.x)
+
+> For [Filament 2.x](https://filamentphp.com/docs/2.x/admin/installation) use [version 1.x](https://github.com/aymanalhattami/filament-page-with-sidebar/tree/1.x)
 
 ## Screenshots
 Default scrollbar
