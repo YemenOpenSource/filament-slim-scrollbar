@@ -11,6 +11,7 @@ Simple package to make the application's scrollbars slim.
 * Support both the dark and light modes.
 
 * No JavaScript or CSS libraries; only pure CSS.
+
   **Note:**
 
 > For [Filament 3.x | Filament 4.x | Filament 5.x](https://filamentphp.com/docs/introduction/installation) use [version 2.x](https://github.com/aymanalhattami/filament-page-with-sidebar/tree/2.x)
